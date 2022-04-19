@@ -1,0 +1,36 @@
+body{
+    background: url(https://i0.wp.com/www.androidsis.com/wp-content/uploads/2018/01/Fondos-de-pantalla-Android.png?resize=640%2C308&ssl=1);
+    background-attachment: fixed;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgb(93, 217, 255);
+    text-align: center;
+}
+img{
+    width: 400px;
+    text-align: center;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(20, 86, 148);
+    padding: 50px;
+    border: 10px solid rgb(100, 63, 201);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
+div{
+    text-align: center;
+}
+a{
+    color: rgb(0, 195, 255);
+}

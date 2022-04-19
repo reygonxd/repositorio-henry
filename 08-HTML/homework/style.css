@@ -1,0 +1,46 @@
+body{
+    background: url(https://get.wallhere.com/photo/white-black-monochrome-wood-pattern-texture-circle-grain-vector-light-shape-floor-line-darkness-screenshot-computer-wallpaper-black-and-white-monochrome-photography-font-104906.jpg);
+    background-attachment: fixed;
+    background-size: cover; 
+    background-repeat: no-repeat;
+
+}
+h1 {
+    font-weight:bold;
+    color: rgb(128, 191, 243);
+    text-align: center;
+}   
+h2{
+    color: rgb(128, 191, 243);
+}
+p{  
+    font-size: 24px;
+    font-weight:bold;
+    text-align: justify;
+    color: rgb(219, 219, 219);
+    text-justify: auto;
+}
+ul{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: justify;
+    color: rgb(219, 219, 219);
+    text-justify: auto;
+}
+#general{
+    width:auto;
+    height: auto;
+    margin-right: 200px;
+    color: rgb(194, 220, 255);
+    align-content: flex;
+    position: relative;
+    top: 300px;
+    left: 100px;
+    text-justify: auto;
+    padding: 10px;
+   
+    margin-bottom: 500px;
+}
+#tema{
+    padding-top: 5px;
+}
